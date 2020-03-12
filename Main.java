@@ -39,9 +39,23 @@ public class Main {
 	public void MetodoLuis v2(){
 		System.out.print("Metodo Luis v2");
 	}
+
 	public void nombre2(){
 		System.out.print("kevin");
 	public void MetodoLuis v2(){
 		System.out.print("Carolina");
 	}
+
+    public void MetodoFernanda v2(){
+		System.out.print("Metodo Luisa Fernanda");
+	}
+
+	public void MetodoLuis v2(){
+		System.out.print("Carolina");
+	}
+
+	public void nuevoaparapruebapull(){
+		System.out.print("nuevo para prueba de pull");
+	}
+
 }
