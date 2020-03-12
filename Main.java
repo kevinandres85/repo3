@@ -35,4 +35,7 @@ public class Main {
 	public void MetodoLuis v2(){
 		System.out.print("Metodo Luis v2");
 	}
+	public void nombre2(){
+		System.out.print("kevin");
+	}
 }
